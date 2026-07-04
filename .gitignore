@@ -52,3 +52,7 @@ asset-stats.html
 *storybook.log
 /graphify-out/
 .graphifyignore
+.agents/
+.claude/
+_bmad-output/
+_bmad/
